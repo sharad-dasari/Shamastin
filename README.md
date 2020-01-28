@@ -1,2 +1,2 @@
 # Shamastin
-Arduino/Arm/Iot/8051/HTML
+Arduino/Arm/IoT/8051/HTML/Pyhton
